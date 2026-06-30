@@ -1,0 +1,20 @@
+Hello and thank you for downloading!!
+
+This shimeji uses assist unit battle sprites from limbus company, and a few edits of said sprites.
+Please be aware of some things before starting up the jar or anything:
+
+- It uses edited xml to make some animations work the intended way and flow more smoothly,
+and remove some actions that don't quite fit right.
+This includes things like gliding around as a move sprite when walking/running.
+Please don't merge the image set into another shimeji's code if you want it to work the intended way!
+
+- Some animations are unused but i've copied some sprites to fill it in so that the default shimeji never shows.
+
+- This is a very basic version of the shimeji,
+although in the future i plan on making updated versions with sound effects, and maybe a duo one with moses.
+
+Made by RubyDreamsUwU
+Last updated: 6/29/2026
+https://github.com/RubyDreamsUwU
+
+Assets sourced from: https://drive.google.com/drive/folders/1Nk9WWMxEcovs5Ewku5ICT1PbfByNcV_z
