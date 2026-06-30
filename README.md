@@ -1,4 +1,4 @@
-![shimeji preview](shime1.png)<br/>
+![shimeji preview](ezra_shimeji_preview.png)<br/>
 Hello and thank you for downloading!!
 
 This shimeji uses assist unit battle sprites from limbus company, and a few edits of said sprites.
